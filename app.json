@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "a7a72189-9068-4e0e-be9b-5b238c58e5d0"
+      }
+    },
+    "owner": "tesla254"
   }
 }
