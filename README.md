@@ -1,4 +1,9 @@
 # iDeas
+<p align="center">
+   <img src="https://github.com/theTrine333/theTrine333/blob/main/icon.png" width=200/>
+   <img src="https://github.com/theTrine333/theTrine333/blob/main/splash.png" width=200/>
+   <img src="https://github.com/theTrine333/theTrine333/blob/main/iphone-home-preview.png" width=200/>
+</p>
 
 **iDeas** is a lightning-fast solution for curious and creative minds. This platform empowers you to write, store, and plan your ideas seamlessly. Built with passion and speed, iDeas is here to make idea management as simple as possible.
 
