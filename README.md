@@ -1,7 +1,6 @@
 # iDeas
 <p align="center">
    <img src="https://github.com/theTrine333/theTrine333/blob/main/icon.png" width=200/>
-   <img src="https://github.com/theTrine333/theTrine333/blob/main/splash.png" width=200/>
    <img src="https://github.com/theTrine333/theTrine333/blob/main/iphone-home-preview.png" width=200/>
 </p>
 
